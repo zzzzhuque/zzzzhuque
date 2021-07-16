@@ -2,7 +2,7 @@
 
 :information_desk_person:**About Me**
 
-我是程序员Zhu Tao，21年6月毕业于浙江大学，在校招中拿到了阿里、华为、快手等9家大厂的offer，目前在阿里从事媒体智能引擎开发工作。这是我的[zhihu](https://www.zhihu.com/people/zhu-que-si-61)和[leetcode](https://leetcode-cn.com/u/zhu-que-3/)期待跟你交流……^_^
+我是程序员Zhu Tao，21年6月毕业于浙江大学，在校招中拿到了阿里、华为、快手等9家大厂的offer，目前在阿里从事媒体智能引擎开发工作。这是我的[zhihu](https://www.zhihu.com/people/zhu-que-si-61)和[leetcode](https://leetcode-cn.com/u/zhu-que-3/)期待跟你交流……:)
 
 
 ## 我的开源项目
