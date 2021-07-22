@@ -28,6 +28,7 @@
 - 《java核心技术卷I》
 - 《java核心技术卷II》
 - [Servlet](https://github.com/zzzzhuque/learningServlet)
+- [设计模式](https://github.com/zzzzhuque/designPattern)
 
 **数据库** 👯
 
