@@ -31,6 +31,7 @@
 - [设计模式](https://github.com/zzzzhuque/designPattern)
 - [Spring](https://github.com/zzzzhuque/learnSpring)
 - [Spring Boot](https://github.com/zzzzhuque/learnSpringBoot)
+- [MyBatis](https://github.com/zzzzhuque/learnMybatis)
 
 **数据库** 👯
 
