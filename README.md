@@ -33,7 +33,7 @@
 - [Spring Boot](https://github.com/zzzzhuque/learnSpringBoot)
 - [MyBatis](https://github.com/zzzzhuque/learnMybatis)
 - [Spring MVC](https://github.com/zzzzhuque/leanrnSpringMVC)
-- maven
+- [maven](https://github.com/zzzzhuque/learnMaven)
 - [RPC](https://github.com/zzzzhuque/learnRPC)
 
 **数据库** 👯
