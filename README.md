@@ -35,6 +35,8 @@
 - [Spring MVC](https://github.com/zzzzhuque/leanrnSpringMVC)
 - [maven](https://github.com/zzzzhuque/learnMaven)
 - [RPC](https://github.com/zzzzhuque/learnRPC)
+- zookeeper
+- kafka
 
 **数据库** 👯
 
